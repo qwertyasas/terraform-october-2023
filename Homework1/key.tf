@@ -37,3 +37,5 @@ output "key_type" {
 
 #The resources that were imported are shown above. These resources are now in
 #your Terraform state and will henceforth be managed by Terraform
+
+# Destroy complete! Resources: 12 destroyed.

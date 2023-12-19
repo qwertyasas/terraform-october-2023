@@ -71,4 +71,5 @@ output full_output {
 
 output uniq_id {
     value = aws_iam_user.lb2.unique_id
+    
 }
